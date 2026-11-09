@@ -1,9 +1,9 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={
-cCK(d,e,f){var w=new B.Eh(C.dV,x.c),v=new A.ayc(w)
-w.r=A.d88(v)
+cCL(d,e,f){var w=new B.Ej(C.dV,x.c),v=new A.ayc(w)
+w.r=A.d89(v)
 return v},
-d85(d5,d6){var w="Prov",v="Inst\xe4llningar",u="Tidsbegr\xe4nsat prov",t="Visa r\xe4tt svar efter varje fr\xe5ga",s="Antal fr\xe5gor",r="Ange antal fr\xe5gor:",q="Inkludera sparade fr\xe5gor",p="Aviseringar",o="Aviseringar \xe4r avst\xe4ngda",n="\xd6ppna inst\xe4llningar",m="Statistik",l="f\xf6rs\xf6k",k="Alla f\xf6rs\xf6k",j="Sparade fr\xe5gor",i="Godk\xe4nd",h="Underk\xe4nd",g="Totalt",f="prov",e="Kom ig\xe5ng",d="Logga in",a0="Registrera dig",a1="Forts\xe4tt med Google",a2="Tack! Din feedback skickades.",a3="Kunde inte skicka feedback. F\xf6rs\xf6k igen.",a4="Skapa konto",a5="Loggar in...",a6="E-postadress",a7="Starta prov",a8="Trafikskyltar",a9="Prenumeration kr\xe4vs",b0="Kategorier",b1="Prenumerera",b2="B\xf6rja \xf6va",b3="GRATIS",b4="F\xf6rst\xe5tt",b5="N\xe5got gick fel. F\xf6rs\xf6k igen.",b6="F\xf6rs\xf6k igen",b7="Beh\xf6ver \xf6vas",b8="Ej p\xe5b\xf6rjad",b9="Forts\xe4tt",c0="Eget datum",c1="Logga in f\xf6r att prenumerera",c2="{n} dagar/vecka",c3="{n} dagar kvar",c4="Inga f\xf6rs\xf6k \xe4nnu",c5="{n} dagar",c6="Studiem\xe5l",c7="Forts\xe4tt som g\xe4st",c8="Avsluta test",c9="Fr\xe5gespr\xe5k",d0="Fr\xe5gan togs bort fr\xe5n sparade",d1="R\xe4tt",d2="AI-assistent",d3="Ny version",d4="Blanda fr\xe5gornas ordning"
+d86(d5,d6){var w="Prov",v="Inst\xe4llningar",u="Tidsbegr\xe4nsat prov",t="Visa r\xe4tt svar efter varje fr\xe5ga",s="Antal fr\xe5gor",r="Ange antal fr\xe5gor:",q="Inkludera sparade fr\xe5gor",p="Aviseringar",o="Aviseringar \xe4r avst\xe4ngda",n="\xd6ppna inst\xe4llningar",m="Statistik",l="f\xf6rs\xf6k",k="Alla f\xf6rs\xf6k",j="Sparade fr\xe5gor",i="Godk\xe4nd",h="Underk\xe4nd",g="Totalt",f="prov",e="Kom ig\xe5ng",d="Logga in",a0="Registrera dig",a1="Forts\xe4tt med Google",a2="Tack! Din feedback skickades.",a3="Kunde inte skicka feedback. F\xf6rs\xf6k igen.",a4="Skapa konto",a5="Loggar in...",a6="E-postadress",a7="Starta prov",a8="Trafikskyltar",a9="Prenumeration kr\xe4vs",b0="Kategorier",b1="Prenumerera",b2="B\xf6rja \xf6va",b3="GRATIS",b4="F\xf6rst\xe5tt",b5="N\xe5got gick fel. F\xf6rs\xf6k igen.",b6="F\xf6rs\xf6k igen",b7="Beh\xf6ver \xf6vas",b8="Ej p\xe5b\xf6rjad",b9="Forts\xe4tt",c0="Eget datum",c1="Logga in f\xf6r att prenumerera",c2="{n} dagar/vecka",c3="{n} dagar kvar",c4="Inga f\xf6rs\xf6k \xe4nnu",c5="{n} dagar",c6="Studiem\xe5l",c7="Forts\xe4tt som g\xe4st",c8="Avsluta test",c9="Fr\xe5gespr\xe5k",d0="Fr\xe5gan togs bort fr\xe5n sparade",d1="R\xe4tt",d2="AI-assistent",d3="Ny version",d4="Blanda fr\xe5gornas ordning"
 switch(d6){case"home":return"Hem"
 case"tests":return w
 case"profile":return"Profil"
@@ -309,16 +309,16 @@ case"bcd_next":return"N\xe4sta"
 case"smart_check":return"Kontrollera"
 case"notif_subtitle":return"DriveTest"
 case"notif_morning_title":return"\u2600\ufe0f Morgonstudie-p\xe5minnelse"
-case"notif_morning_title_exam":return new A.cf2()
+case"notif_morning_title_exam":return new A.cf3()
 case"notif_morning_body":return"Starta din \xf6vningssession \u2014 bygg din streak!"
 case"notif_evening_title":return"\ud83c\udf19 Kv\xe4llsstreak-check"
-case"notif_evening_title_exam":return new A.cf3()
+case"notif_evening_title_exam":return new A.cf4()
 case"notif_evening_body":return"L\xe5t inte idag g\xe5 f\xf6rbi \u2014 h\xe5ll din streak vid liv!"
-case"notif_activity_0":return new A.cf4()
-case"notif_activity_1":return new A.cff()
-case"notif_activity_2":return new A.cfj()
-case"notif_activity_3":return new A.cfk()
-case"notif_activity_4":return new A.cfl()
+case"notif_activity_0":return new A.cf5()
+case"notif_activity_1":return new A.cfg()
+case"notif_activity_2":return new A.cfk()
+case"notif_activity_3":return new A.cfl()
+case"notif_activity_4":return new A.cfm()
 case"bcd_failed_traffic_signs":return"Det gick inte att ladda trafikskyltar"
 case"bcd_search_hint":return"S\xf6k\u2026"
 case"bcd_no_subcategories":return"Inga underkategorier tillg\xe4ngliga."
@@ -786,17 +786,17 @@ case"ai_continue_button":return"Forts\xe4tt chatt"
 case"ai_greeting_full":return y.z
 case"ai_read_aloud":return"L\xe4s h\xf6gt"
 case"option_image_unavailable":return"Bild ej tillg\xe4nglig"
-case"question_image_label":return new A.cfm()
+case"question_image_label":return new A.cfn()
 case"ai_close":return"St\xe4ng"
 case"smart_learning_title":return"Smart Learning"
 case"smart_learning_subtitle":return y.G
-case"smart_chunk_n":return new A.cfn()
+case"smart_chunk_n":return new A.cfo()
 case"smart_chunk_passed":return i
 case"smart_chunk_locked":return"L\xe5st"
 case"smart_chunk_active":return"Starta"
 case"smart_chunk_retry":return b6
 case"smart_review_n":return"Repetition"
-case"smart_review_subtitle":return new A.cfo()
+case"smart_review_subtitle":return new A.cfp()
 case"smart_full_exam":return"Fullst\xe4ndigt prov"
 case"smart_full_exam_locked":return"Slutf\xf6r alla delar f\xf6r att l\xe5sa upp"
 case"smart_full_exam_ready":return"Fullst\xe4ndigt prov redo"
@@ -810,24 +810,24 @@ case"smart_hearts_3_left":return"3 kvar"
 case"smart_hearts_2_left":return"2 kvar"
 case"smart_hearts_1_left":return"1 kvar"
 case"smart_hearts_0_left":return"0 kvar"
-case"smart_full_exam_q_of":return new A.cfp()
-case"smart_train_mistakes":return new A.cf5()
+case"smart_full_exam_q_of":return new A.cfq()
+case"smart_train_mistakes":return new A.cf6()
 case"smart_practice_mode":return"\xd6vning"
 case"smart_timed_mode":return u
 case"smart_attempt_final_exam":return"G\xf6r slutprovet"
-case"smart_questions_count":return new A.cf6()
+case"smart_questions_count":return new A.cf7()
 case"smart_part_pass_requirement":return"Klara denna del med 70%"
 case"smart_not_started":return b8
-case"smart_chunks_done":return new A.cf7()
+case"smart_chunks_done":return new A.cf8()
 case"smart_result_passed":return"Del godk\xe4nd!"
 case"smart_result_failed":return"Inte riktigt \u2014 f\xf6rs\xf6k igen"
-case"smart_result_weak_updated":return new A.cf8()
+case"smart_result_weak_updated":return new A.cf9()
 case"smart_result_continue":return b9
 case"smart_no_exams":return y.N
 case"smart_mistakes_title":return"Tr\xe4na misstag"
 case"smart_mistakes_none_category":return y.bu
 case"smart_mistakes_load_failed":return"Kunde inte ladda misstagsfr\xe5gor."
-case"smart_mistakes_to_review":return new A.cf9()
+case"smart_mistakes_to_review":return new A.cfa()
 case"smart_progress_title":return"Dina framsteg"
 case"smart_progress_ready_full_exam":return"Redo f\xf6r fullst\xe4ndigt prov!"
 case"smart_progress_required_to_pass":return"70% kr\xe4vs f\xf6r att bli godk\xe4nd"
@@ -835,22 +835,22 @@ case"smart_full_exam_early_attempt":return y.V
 case"smart_full_exam_early_rules":return y.y
 case"smart_full_exam_completed_parts":return"Du har klarat delarna."
 case"smart_full_exam_completed_rules":return"Dina svar r\xe4ttas i slutet."
-case"smart_category_completed":return new A.cfa()
-case"smart_category_not_started":return new A.cfb()
-case"smart_category_parts_done":return new A.cfc()
+case"smart_category_completed":return new A.cfb()
+case"smart_category_not_started":return new A.cfc()
+case"smart_category_parts_done":return new A.cfd()
 case"smart_category_exam":return f
 case"smart_category_exams":return f
-case"smart_category_mistakes_subtitle":return new A.cfd()
+case"smart_category_mistakes_subtitle":return new A.cfe()
 case"smart_category_question":return"fr\xe5ga"
 case"smart_category_questions":return"fr\xe5gor"
-case"smart_result_unlock_needed":return new A.cfe()
-case"smart_result_unlock_remaining":return new A.cfg()
+case"smart_result_unlock_needed":return new A.cff()
+case"smart_result_unlock_remaining":return new A.cfh()
 case"smart_result_part_passed_caps":return"DEL GODK\xc4ND"
 case"smart_result_try_again_caps":return"F\xd6RS\xd6K IGEN"
 case"smart_result_overall_mastery":return"\xd6vergripande beh\xe4rskning"
 case"smart_result_threshold":return"70% f\xf6r godk\xe4nt"
-case"smart_mastered_of":return new A.cfh()
-case"smart_in_a_row":return new A.cfi()
+case"smart_mastered_of":return new A.cfi()
+case"smart_in_a_row":return new A.cfj()
 case"smart_exit_title":return"L\xe4mna Smart Learning?"
 case"smart_exit_body":return y.b
 case"smart_feedback_correct":return"R\xe4tt!"
@@ -908,21 +908,20 @@ case"guest_err_required":return y.O
 case"guest_err_email_invalid":return"Ange en giltig e-postadress."
 case"guest_err_not_guest":return"Du har redan ett konto. Logga in."
 default:return null}},
-d88(d){return new A.cfr(d)},
+d89(d){return new A.cfs(d)},
 ayc:function ayc(d){this.a=d},
-cfr:function cfr(d){this.a=d},
-cf2:function cf2(){},
+cfs:function cfs(d){this.a=d},
 cf3:function cf3(){},
 cf4:function cf4(){},
-cff:function cff(){},
-cfj:function cfj(){},
+cf5:function cf5(){},
+cfg:function cfg(){},
 cfk:function cfk(){},
 cfl:function cfl(){},
 cfm:function cfm(){},
 cfn:function cfn(){},
 cfo:function cfo(){},
 cfp:function cfp(){},
-cf5:function cf5(){},
+cfq:function cfq(){},
 cf6:function cf6(){},
 cf7:function cf7(){},
 cf8:function cf8(){},
@@ -932,73 +931,74 @@ cfb:function cfb(){},
 cfc:function cfc(){},
 cfd:function cfd(){},
 cfe:function cfe(){},
-cfg:function cfg(){},
+cff:function cff(){},
 cfh:function cfh(){},
-cfi:function cfi(){}}
+cfi:function cfi(){},
+cfj:function cfj(){}}
 B=c[0]
 C=c[2]
 A=a.updateHolder(c[3],A)
 A.ayc.prototype={
-i(d,e){return this.a.aoN(e)},
+i(d,e){return this.a.aoO(e)},
 gaSB(){return"Hem"},
 gaZf(){return"Prov"},
-gap9(d){return"Spara"},
+gapa(d){return"Spara"},
 gtd(d){return"Avbryt"},
 ga5m(d){return"Ta bort"},
-gakI(){return"Logga ut"},
-gakE(){return"Laddar..."},
+gakJ(){return"Logga ut"},
+gakF(){return"Laddar..."},
 ga6Y(){return"Inst\xe4llningar"},
-gaq1(){return"Utseende"},
-gaqi(){return"Provpreferenser"},
-gaqo(){return"Tidsbegr\xe4nsat prov"},
-gaqp(){return"Aktivera tidsgr\xe4ns f\xf6r provet"},
-gaq7(){return"Omedelbar r\xe4ttning"},
-gaq8(){return"Visa r\xe4tt svar efter varje fr\xe5ga"},
-gaqg(){return"Antal fr\xe5gor"},
-gaq4(){return"Ange antal fr\xe5gor:"},
-gaq5(){return"Inkludera sparade fr\xe5gor"},
-gaq6(){return"Inkludera fr\xe5gor du tidigare sparat"},
-gaqb(){return"Aviseringar"},
-gaqf(){return"Push-aviseringar"},
-gaqe(){return y.B},
-gaqd(){return"Aviseringar \xe4r avst\xe4ngda"},
-gaqc(){return y.s},
+gaq2(){return"Utseende"},
+gaqj(){return"Provpreferenser"},
+gaqp(){return"Tidsbegr\xe4nsat prov"},
+gaqq(){return"Aktivera tidsgr\xe4ns f\xf6r provet"},
+gaq8(){return"Omedelbar r\xe4ttning"},
+gaq9(){return"Visa r\xe4tt svar efter varje fr\xe5ga"},
+gaqh(){return"Antal fr\xe5gor"},
+gaq5(){return"Ange antal fr\xe5gor:"},
+gaq6(){return"Inkludera sparade fr\xe5gor"},
+gaq7(){return"Inkludera fr\xe5gor du tidigare sparat"},
+gaqc(){return"Aviseringar"},
+gaqg(){return"Push-aviseringar"},
+gaqf(){return y.B},
+gaqe(){return"Aviseringar \xe4r avst\xe4ngda"},
+gaqd(){return y.s},
 ga6X(){return"Spr\xe5k"},
-gaq9(){return"V\xe4lj ditt f\xf6redragna spr\xe5k"},
-gaqq(){return"Versionsinformation"},
+gaqa(){return"V\xe4lj ditt f\xf6redragna spr\xe5k"},
+gaqr(){return"Versionsinformation"},
 ga6W(){return"Appversion"},
-gaq3(){return"Commit"},
-gaq2(){return"Gren"},
-gaqa(){return"Senaste uppdatering"},
-gaqh(){return"Inst\xe4llningar sparades"},
+gaq4(){return"Commit"},
+gaq3(){return"Gren"},
+gaqb(){return"Senaste uppdatering"},
+gaqi(){return"Inst\xe4llningar sparades"},
 gaXd(){return"Visa profil"},
-gam_(){return"Redigera profil"},
+gam0(){return"Redigera profil"},
 gaX7(){return"Preferenser"},
 gaX8(){return"Resurser"},
 gaXc(){return"Mina resultat"},
 gaXb(){return"Statistik"},
-gas4(){return"Inga avslutade prov \xe4nnu"},
-garU(){return"F\xd6RS\xd6KSHISTORIK"},
-gas_(){return"Snittid"},
+gas5(){return"Inga avslutade prov \xe4nnu"},
+garV(){return"F\xd6RS\xd6KSHISTORIK"},
+gas0(){return"Snittid"},
+garX(){return"f\xf6rs\xf6k"},
 garW(){return"f\xf6rs\xf6k"},
-garV(){return"f\xf6rs\xf6k"},
-garZ(){return"Snitt"},
+gas_(){return"Snitt"},
 ga7n(){return"Ok\xe4nt"},
-gas0(){return"B\xe4st"},
-garX(){return"Snitt"},
-gas2(){return"Genomf\xf6rda prov"},
-gas5(){return"Andel godk\xe4nda"},
-gas1(){return"B\xe4sta resultat"},
-garY(){return"Snittresultat"},
-gas7(){return"Total studietid"},
-gas3(){return"Senaste resultat"},
-gas6(){return"Uppdelning per prov"},
-garT(){return"Alla f\xf6rs\xf6k"},
+gas1(){return"B\xe4st"},
+garY(){return"Snitt"},
+gas3(){return"Genomf\xf6rda prov"},
+gas6(){return"Andel godk\xe4nda"},
+gas2(){return"B\xe4sta resultat"},
+garZ(){return"Snittresultat"},
+gas8(){return"Total studietid"},
+gas4(){return"Senaste resultat"},
+gas7(){return"Uppdelning per prov"},
+garU(){return"Alla f\xf6rs\xf6k"},
 gaSE(){return"F\xf6rs\xf6ksdetaljer"},
 gaSW(){return"Sparade fr\xe5gor"},
 gaXa(){return"Inst\xe4llningar"},
 gaWP(){return"Hj\xe4lp"},
-gam0(){return"K\xf6phistorik"},
+gam1(){return"K\xf6phistorik"},
 gaX2(){return"Kvitto"},
 gaWT(){return"Kopiera kvittonummer"},
 gaWX(){return"Kvittonummer kopierat"},
@@ -1020,20 +1020,20 @@ gaX9(){return"Skicka feedback"},
 gaWQ(){return"\xc4r du s\xe4ker p\xe5 att du vill logga ut?"},
 gaXe(){return"Ja, logga ut"},
 gaSH(){return"Instrumentpanel"},
-gak_(){return"Min framsteg"},
+gak0(){return"Min framsteg"},
 gaSP(){return"Totalt resultat"},
 gRf(){return"Godk\xe4nd"},
 gRe(){return"Underk\xe4nd"},
-gak2(){return"Totalt"},
+gak3(){return"Totalt"},
 gaSM(){return"P\xe5g\xe5ende"},
 gaSV(){return"Senaste aktivitet"},
 gaSG(){return"Per kategori"},
 gaT_(){return"Denna vecka"},
-gak1(){return"Denna m\xe5nad"},
+gak2(){return"Denna m\xe5nad"},
 gaSN(){return"Inga f\xf6rs\xf6k \xe4n!"},
 gaSO(){return y.e},
 gaSY(){return"Ta ditt f\xf6rsta prov"},
-gak0(){return"Pausad"},
+gak1(){return"Pausad"},
 gaSX(){return"Startad"},
 gRg(){return"\xc5teruppta"},
 gaSF(){return"f\xf6rs\xf6k"},
@@ -1046,14 +1046,14 @@ gaSR(){return"Sparade fr\xe5gor"},
 gaSS(){return"Inst\xe4llningar"},
 gaTv(){return"Hoppa \xf6ver"},
 gaLE(){return"\xd6va. Klara prov tryggt."},
-gafQ(){return"ELLER"},
+gafR(){return"ELLER"},
 gaLe(){return"Logga in"},
 gaKI(){return"Kontakta support"},
 gPl(){return"Anv\xe4ndarnamn eller e-post"},
 ga_3(){return"E-post"},
 gPi(){return"L\xf6senord"},
 gaKX(){return"Gl\xf6mt l\xf6senord?"},
-gafP(){return"Ogiltigt anv\xe4ndarnamn eller l\xf6senord"},
+gafQ(){return"Ogiltigt anv\xe4ndarnamn eller l\xf6senord"},
 gaLg(){return"Har du inget konto? "},
 gaKT(){return"Typ"},
 gaKS(){return"\xc4mne (valfritt)"},
@@ -1065,25 +1065,25 @@ gaKL(){return"Appproblem"},
 gaKN(){return"Funktionsf\xf6rfr\xe5gan"},
 gaKQ(){return"Betalningsproblem"},
 gaKP(){return"\xd6vrigt"},
-gafV(){return"Registrera"},
+gafW(){return"Registrera"},
 gPn(){return y.gg},
 gaLx(){return"Anv\xe4ndarnamnet m\xe5ste vara minst 4 tecken"},
-gafZ(){return"V\xe4nligen ange en e-postadress"},
-gafY(){return"V\xe4nligen ange en giltig e-postadress"},
+gag_(){return"V\xe4nligen ange en e-postadress"},
+gafZ(){return"V\xe4nligen ange en giltig e-postadress"},
 gPm(){return"V\xe4nligen ange ett l\xf6senord"},
 ga_7(){return"L\xf6senordet m\xe5ste vara minst 6 tecken"},
 gaLt(){return y.cl},
-gag0(){return"V\xe4lkommen, lycka till!"},
-gag1(){return"V\xe4lkommen tillbaka igen!"},
+gag1(){return"V\xe4lkommen, lycka till!"},
+gag2(){return"V\xe4lkommen tillbaka igen!"},
 ga_2(){return"Alltid v\xe4lkommen tillbaka."},
-gafW(){return y.aW},
+gafX(){return y.aW},
 gHX(){return"Ett fel uppstod. F\xf6rs\xf6k igen."},
 ga_4(){return"Forts\xe4tt med Google"},
 gaLh(){return"eller forts\xe4tt med"},
 gaLf(){return"Fler alternativ"},
 gPj(){return"Loggar in..."},
 gPk(){return"Logga in"},
-gafX(){return"Registrera dig"},
+gafY(){return"Registrera dig"},
 ga_6(){return"Visa"},
 ga_5(){return"D\xf6lj"},
 gaL0(){return"Gl\xf6mt l\xf6senord"},
@@ -1091,23 +1091,23 @@ gaKW(){return"\xc5terst\xe4ll ditt l\xf6senord"},
 gaKZ(){return y.J},
 gaKU(){return"E-postadress"},
 gaKY(){return"Skicka instruktioner"},
-gafO(){return"Tillbaka till inloggning"},
+gafP(){return"Tillbaka till inloggning"},
 gaL_(){return y.a},
 gaKV(){return y.o},
-gag_(){return"Verifiera kod"},
+gag0(){return"Verifiera kod"},
 gaLB(){return"Kontrollera din e-post"},
 gaLD(){return y.gK},
 gaLA(){return"\xc5terst\xe4llningskod"},
 gaLz(){return"Ange koden fr\xe5n din e-post"},
 gaLy(){return y.aM},
 gaLC(){return"Skicka om kod"},
-gafU(){return"\xc5terst\xe4ll l\xf6senord"},
+gafV(){return"\xc5terst\xe4ll l\xf6senord"},
 gaLk(){return"Ange nytt l\xf6senord"},
 gaLm(){return"Ange ditt nya l\xf6senord"},
-gafT(){return"Nytt l\xf6senord"},
-gafR(){return"Bekr\xe4fta l\xf6senord"},
+gafU(){return"Nytt l\xf6senord"},
+gafS(){return"Bekr\xe4fta l\xf6senord"},
 gaLi(){return"V\xe4nligen ange ett nytt l\xf6senord."},
-gafS(){return"L\xf6senorden st\xe4mmer inte \xf6verens."},
+gafT(){return"L\xf6senorden st\xe4mmer inte \xf6verens."},
 gaLl(){return y.fy},
 gaLo(){return"Klart!"},
 gaLn(){return y.n},
@@ -1141,10 +1141,10 @@ gHZ(){return"Prov"},
 ga_h(){return"Trafikskyltar"},
 gaMm(){return"Bl\xe4ddra bland alla trafikskyltar"},
 ga_d(){return"\xd6vning"},
-gag6(){return"Prov"},
+gag7(){return"Prov"},
 gPq(){return"Teori-\ndokument"},
 gPr(){return"Trafikskyltar"},
-gag5(){return"Checklista"},
+gag6(){return"Checklista"},
 gaN4(){return"\xd6vers\xe4tt checklistan till ditt spr\xe5k"},
 ga_f(){return"Statistik"},
 ga_e(){return"Sparade\nfr\xe5gor"},
@@ -1171,10 +1171,10 @@ ga_b(){return"K\xf6p"},
 gaMb(){return"Betalning misslyckades. F\xf6rs\xf6k igen."},
 gaMe(){return"S\xf6k kategorier\u2026"},
 gaLX(){return"Inga kategorier tillg\xe4ngliga."},
-gag8(){return"Inga tr\xe4ffar hittades."},
+gag9(){return"Inga tr\xe4ffar hittades."},
 gaMj(){return"Prenumererar"},
-gag9(){return"Tryck f\xf6r att prenumerera"},
-gag4(){return"Det gick inte att ladda kategorier"},
+gaga(){return"Tryck f\xf6r att prenumerera"},
+gag5(){return"Det gick inte att ladda kategorier"},
 gaM1(){return"Inga planer tillg\xe4ngliga"},
 gaLM(){return"Aktiv"},
 gaMi(){return"B\xf6rja \xf6va"},
@@ -1185,28 +1185,28 @@ gaMl(){return"Tryck f\xf6r att zooma"},
 gaMh(){return"trafikskyltar"},
 gaMn(){return"Visa"},
 gaMc(){return"F\xf6reg\xe5ende"},
-gag7(){return"N\xe4sta"},
-gar0(){return"Kontrollera"},
+gag8(){return"N\xe4sta"},
+gar1(){return"Kontrollera"},
 gaLU(){return"Det gick inte att ladda trafikskyltar"},
 gaMf(){return"S\xf6k\u2026"},
 gaM4(){return"Inga underkategorier tillg\xe4ngliga."},
 gaLS(){return"Det gick inte att ladda underkategorier"},
-gzT(){return"Inga fr\xe5gor hittades f\xf6r det h\xe4r provet."},
+gzS(){return"Inga fr\xe5gor hittades f\xf6r det h\xe4r provet."},
 gD0(){return"Det gick inte att ladda provfr\xe5gor."},
 gaMd(){return"fr\xe5gor"},
 gaMa(){return"Godk\xe4nt"},
 gPp(){return"GRATIS"},
-garm(){return"L\xe5st"},
-gaqk(){return"Tema"},
-gaqm(){return"Ljust, m\xf6rkt eller f\xf6lj systemet"},
-gaqn(){return"System"},
-gaql(){return"Ljust"},
-gaqj(){return"M\xf6rkt"},
+garn(){return"L\xe5st"},
+gaql(){return"Tema"},
+gaqn(){return"Ljust, m\xf6rkt eller f\xf6lj systemet"},
+gaqo(){return"System"},
+gaqm(){return"Ljust"},
+gaqk(){return"M\xf6rkt"},
 gaSr(){return"Hj\xe4lp & Support"},
 gaSj(){return"Beh\xf6ver du hj\xe4lp?"},
 gaSq(){return y.F},
 gaSt(){return"Din information"},
-gajW(){return"Anv\xe4ndarnamn"},
+gajX(){return"Anv\xe4ndarnamn"},
 gaSg(){return"E-post"},
 gaSs(){return"Anv\xe4ndar-ID"},
 gaSm(){return"\xc4mne"},
@@ -1223,7 +1223,7 @@ gaSh(){return y.bR},
 gaSi(){return y.q},
 gaV5(){return"Aviseringar"},
 gaUW(){return"Markera alla som l\xe4sta"},
-gal6(){return"Rensa"},
+gal7(){return"Rensa"},
 gaUQ(){return"Rensa alla aviseringar?"},
 gaUP(){return y.t},
 gaUT(){return"Inga aviseringar"},
@@ -1243,10 +1243,10 @@ gaV3(){return"F\xf6rst\xe5tt"},
 gaT7(){return"Svep ned\xe5t f\xf6r att st\xe4nga"},
 gaT6(){return"Kunde inte ladda bilden"},
 gaPv(){return"N\xe5got gick fel. F\xf6rs\xf6k igen."},
-gahT(){return y.bA},
+gahU(){return y.bA},
 gaPl(){return"Serverfel. F\xf6rs\xf6k igen senare."},
-gahU(){return"F\xf6rs\xf6k igen"},
-gahS(){return"Mina prov"},
+gahV(){return"F\xf6rs\xf6k igen"},
+gahT(){return"Mina prov"},
 gaPx(){return"Veckosvit"},
 gaPu(){return"Totala f\xf6rs\xf6k"},
 gaOP(){return"Delar klarade"},
@@ -1293,20 +1293,20 @@ gaPe(){return"Alla \xe4mnen klara!"},
 gaPh(){return"{done} av {total} \xe4mnen klara"},
 gaPf(){return"{score}% snitt totalt"},
 gaPg(){return"Inga f\xf6rs\xf6k \xe4nnu"},
-gahW(){return"Nytt"},
+gahX(){return"Nytt"},
 gaPi(){return"Snabb\xe5tkomst"},
 gaP3(){return"1 punkt"},
 gaP2(){return"{n} punkter"},
 gaPm(){return"{n} genv\xe4gar"},
 gaP4(){return"Omg\xe5ng {n}"},
 gQ3(){return"Kategori {n}"},
-gahO(){return"AKTIV"},
-gahQ(){return"INAKTIV"},
+gahP(){return"AKTIV"},
+gahR(){return"INAKTIV"},
 gaOG(){return"Upph\xf6rde {date}"},
 ga0d(){return"L\xf6per ut idag"},
 ga0e(){return"L\xf6per ut imorgon"},
 ga0c(){return"L\xf6per ut om {days} dagar"},
-gahP(){return"L\xf6per ut {date}"},
+gahQ(){return"L\xf6per ut {date}"},
 gaP0(){return y.dd},
 gaP_(){return"F\xf6rnya"},
 gaPn(){return"Klart"},
@@ -1319,19 +1319,19 @@ gaPc(){return"Idag"},
 gaPa(){return"7 dagar"},
 gaPb(){return"Hela tiden"},
 gaPk(){return"Po\xe4ng \xf6ver tid"},
-gahR(){return"Totalt"},
+gahS(){return"Totalt"},
 gaOM(){return y.j},
 gaOO(){return"Godk\xe4nd"},
 gaON(){return"Underk\xe4nd"},
 gaOQ(){return"Regelbundenhet idag, framg\xe5ng imorgon."},
 gaPt(){return"{n} dagars svit!"},
-gahX(){return"{n} dagar"},
+gahY(){return"{n} dagar"},
 gaOF(){return"{n} omg\xe5ngar"},
-gahN(){return"{score}% snitt"},
+gahO(){return"{score}% snitt"},
 gaP5(){return"+ Nytt test"},
 gaP6(){return"Inga f\xf6rs\xf6k \xe4nnu"},
 gaPd(){return"Tidigare f\xf6rs\xf6k"},
-gahV(){return"Se alla"},
+gahW(){return"Se alla"},
 gaZJ(){return"Steg 1 av 2 \u2014 \xd6vers\xe4tt"},
 gaZH(){return y.dY},
 gaZL(){return"Steg 1 av 2 \u2014 V\xe4lj ett spr\xe5k"},
@@ -1345,23 +1345,23 @@ gaZF(){return"Klart!"},
 gaZD(){return y.v},
 gaZE(){return y.k},
 gaZG(){return"B\xf6rja \xf6va!"},
-gaqD(){return"Studiem\xe5l"},
-gaqA(){return"PROVDATUM"},
-gaqB(){return"\xd6VNINGSDAGAR"},
-gaqx(){return y.a9},
-gaqs(){return"{n} dag(ar) / vecka"},
-gaqz(){return"Spara inst\xe4llningar"},
-gaqC(){return"Inst\xe4llningar sparade!"},
-gaqv(){return"M\xc5NADER"},
-gaqr(){return"Eget datum"},
-gaqu(){return"Provdatum har passerat"},
-gaqt(){return"{n} dagar kvar"},
-gaqw(){return y.L},
-gaqy(){return"Studiem\xe5l"},
-garI(){return"HALL\xc5 SVERIGE"},
-garH(){return"F\xf6rbereder din framg\xe5ng..."},
-garG(){return y.Y},
-galz(){return"KOM IG\xc5NG"},
+gaqE(){return"Studiem\xe5l"},
+gaqB(){return"PROVDATUM"},
+gaqC(){return"\xd6VNINGSDAGAR"},
+gaqy(){return y.a9},
+gaqt(){return"{n} dag(ar) / vecka"},
+gaqA(){return"Spara inst\xe4llningar"},
+gaqD(){return"Inst\xe4llningar sparade!"},
+gaqw(){return"M\xc5NADER"},
+gaqs(){return"Eget datum"},
+gaqv(){return"Provdatum har passerat"},
+gaqu(){return"{n} dagar kvar"},
+gaqx(){return y.L},
+gaqz(){return"Studiem\xe5l"},
+garJ(){return"HALL\xc5 SVERIGE"},
+garI(){return"F\xf6rbereder din framg\xe5ng..."},
+garH(){return y.Y},
+galA(){return"KOM IG\xc5NG"},
 gaVI(){return"M\xc5NADER"},
 gaVX(){return"Vad studerar du "},
 gaVW(){return"f\xf6r?"},
@@ -1371,7 +1371,7 @@ gaW0(){return"S\xe4tt ditt vecko-"},
 gaW_(){return"m\xe5l."},
 gaW2(){return"Din v\xe4g till "},
 gaW1(){return"m\xe4sterskap."},
-galy(){return y.x},
+galz(){return y.x},
 ga3z(){return"Ingen plan vald."},
 gaVz(){return"K\xf6p paket \u2014 {price}"},
 gaVT(){return"Logga in f\xf6r att prenumerera"},
@@ -1387,11 +1387,11 @@ gaVA(){return"V\xe4lj plan"},
 gaVx(){return"Du f\xe5r 20% rabatt"},
 gaVy(){return"Sparar {amount}"},
 gaVP(){return"Pris ej tillg\xe4ngligt"},
-galw(){return"{n} \xe5rs \xe5tkomst"},
-galu(){return"{n} m\xe5naders \xe5tkomst"},
-galv(){return"1 dag"},
+galx(){return"{n} \xe5rs \xe5tkomst"},
+galv(){return"{n} m\xe5naders \xe5tkomst"},
+galw(){return"1 dag"},
 ga3y(){return"{n} dagar"},
-galx(){return y.f},
+galy(){return y.f},
 gaVV(){return"Forts\xe4tt som g\xe4st"},
 gaVU(){return"Hoppa \xf6ver f\xf6r nu"},
 gaVO(){return"Ett snabbt steg"},
@@ -1400,26 +1400,26 @@ gaVM(){return"Logga in / Skapa konto"},
 gaVL(){return"Forts\xe4tt som g\xe4st"},
 gaKJ(){return"Forts\xe4tt som g\xe4st"},
 gaL6(){return y.w},
-gajg(){return"GRATIS"},
-gajj(){return y.g5},
-gaji(){return y.gh},
-gajh(){return"B\xf6rja \xf6va"},
+gajh(){return"GRATIS"},
+gajk(){return y.g5},
+gajj(){return y.gh},
+gaji(){return"B\xf6rja \xf6va"},
 ga6m(){return"Du surfar som g\xe4st"},
-gaoU(){return y.dq},
+gaoV(){return y.dq},
 ga6l(){return"Skapa konto"},
-gaoX(){return"Spara dina framsteg"},
-gaoW(){return y.bm},
-gap5(){return"V\xe4lj ett anv\xe4ndarnamn"},
-gaoY(){return"E-postadress"},
-gap4(){return"L\xf6senord (min. 8 tecken)"},
-gaoV(){return"Skapa konto"},
+gaoY(){return"Spara dina framsteg"},
+gaoX(){return y.bm},
+gap6(){return"V\xe4lj ett anv\xe4ndarnamn"},
+gaoZ(){return"E-postadress"},
+gap5(){return"L\xf6senord (min. 8 tecken)"},
+gaoW(){return"Skapa konto"},
 gaMx(){return"Spara \xe4ndringar"},
-gagn(){return"Ange l\xf6senord"},
+gago(){return"Ange l\xf6senord"},
 ga_o(){return"Ta bort mitt konto"},
 gaPR(){return y.m},
 gaMt(){return"Tar bort..."},
 gaMu(){return"Forts\xe4tt"},
-gagm(){return"Avsluta"},
+gagn(){return"Avsluta"},
 gaMw(){return"Spara & Avsluta"},
 gaMz(){return"Skicka"},
 gaMy(){return"Starta test med sparade fr\xe5gor"},
@@ -1436,7 +1436,7 @@ gaYw(){return"Avsluta test"},
 gaYv(){return"Vill du spara dina framsteg?"},
 gSI(){return y.aH},
 gaYF(){return y.i},
-gamG(){return"Feedback"},
+gamH(){return"Feedback"},
 gaYD(){return"Typ"},
 gaYB(){return"Problem med fr\xe5gan"},
 gaYG(){return"Fel svar"},
@@ -1446,9 +1446,9 @@ gaYA(){return"\xd6vrigt"},
 gaYy(){return y.R},
 gaYC(){return"Tack! Din feedback skickades."},
 gaYx(){return"Kunde inte skicka feedback. F\xf6rs\xf6k igen."},
-gamR(){return y.gn},
-gamI(){return"Fr\xe5gespr\xe5k"},
-gamH(){return"\xd6vers\xe4tt fr\xe5gor till ditt spr\xe5k"},
+gamS(){return y.gn},
+gamJ(){return"Fr\xe5gespr\xe5k"},
+gamI(){return"\xd6vers\xe4tt fr\xe5gor till ditt spr\xe5k"},
 gaYO(){return"Fr\xe5gespr\xe5k"},
 gaZc(){return"St\xe4ng av timer"},
 gaZe(){return"Sl\xe5 p\xe5 timer"},
@@ -1467,33 +1467,33 @@ gaYH(){return"Nej"},
 gaYL(){return"Ja"},
 gaYV(){return"Grattis!"},
 gaZ_(){return"Inte riktigt d\xe4r \xe4n"},
-gamL(){return"GODK\xc4ND"},
-gamK(){return"UNDERK\xc4ND"},
+gamM(){return"GODK\xc4ND"},
+gamL(){return"UNDERK\xc4ND"},
 gaZ1(){return"Du klarade testet. Bra jobbat!"},
 gaYX(){return y.r},
 gaYY(){return"G\xe5 tillbaka"},
 gaZ6(){return"Se resultat"},
 gaZ5(){return"Test godk\xe4nt"},
 gaZ4(){return"Test underk\xe4nt"},
-gamM(){return"Fr\xe5gegranskning"},
-gamN(){return"Po\xe4ng"},
+gamN(){return"Fr\xe5gegranskning"},
+gamO(){return"Po\xe4ng"},
 gaZ2(){return"Bra jobbat! Du klarade testet."},
 gaYZ(){return y.P},
-gamJ(){return"R\xe4tt"},
-gamP(){return"Fel"},
-gamO(){return"Hoppade \xf6ver"},
+gamK(){return"R\xe4tt"},
+gamQ(){return"Fel"},
+gamP(){return"Hoppade \xf6ver"},
 gaYT(){return"{gap}% \xf6ver godk\xe4ntgr\xe4nsen"},
 gaYU(){return"{gap}% under godk\xe4ntgr\xe4nsen"},
 gaZ8(){return"Dina resultat"},
 gaZ9(){return"Din po\xe4ng"},
 gaZ0(){return"Godk\xe4ntgr\xe4ns"},
 gaYW(){return"R\xe4tta svar"},
-gamQ(){return"Felaktiga svar"},
+gamR(){return"Felaktiga svar"},
 gaZ3(){return"F{n}: {text}"},
 gaZ7(){return"Ditt svar: {answer}"},
 gaR_(){return"F\xf6r m\xe5nga f\xf6rs\xf6k. F\xf6rs\xf6k igen om {wait}."},
 gaQY(){return y.dR},
-gaiU(){return y.E},
+gaiV(){return y.E},
 gaQZ(){return"Din session har g\xe5tt ut. Logga in igen."},
 gaQX(){return y.c},
 gaKd(){return"B\xe4ttre i appen"},
@@ -1509,76 +1509,76 @@ gaLW(){return"min"},
 gaJW(){return"AI-assistent"},
 gaK_(){return"Initierar AI..."},
 gaK0(){return"Skriv din fr\xe5ga..."},
-gafv(){return"N\xe5got gick fel. F\xf6rs\xf6k igen."},
+gafw(){return"N\xe5got gick fel. F\xf6rs\xf6k igen."},
 gHO(){return"Ge mig en ledtr\xe5d"},
 gHP(){return"Hj\xe4lp mig f\xf6rst\xe5 det h\xe4r"},
 gaJY(){return"Forts\xe4tt chatt"},
 gaJZ(){return y.z},
-gafw(){return"L\xe4s h\xf6gt"},
+gafx(){return"L\xe4s h\xf6gt"},
 gaWd(){return"Bild ej tillg\xe4nglig"},
 a3U(d){return"Bild "+d},
 gaJX(){return"St\xe4ng"},
 gLD(){return"Smart Learning"},
 gUu(){return y.G},
 a7b(d){return"Del "+d},
-gar1(){return"Starta"},
-gar2(){return"F\xf6rs\xf6k igen"},
+gar2(){return"Starta"},
+gar3(){return"F\xf6rs\xf6k igen"},
 ga7d(){return"Repetition"},
-arB(d){return""+d+" fr\xe5gor \xb7 Alla tidigare delar"},
+arC(d){return""+d+" fr\xe5gor \xb7 Alla tidigare delar"},
 ga7c(){return"Fullst\xe4ndigt prov"},
-gare(){return"Fullst\xe4ndigt prov redo"},
-garj(){return"Du spelar med liv"},
-garh(){return y.u},
-gari(){return"F\xf6rst\xe5tt"},
-garg(){return"Tyv\xe4rr, \xf6va mer!"},
-garf(){return y.C},
-gark(){return"Forts\xe4tt \xf6va"},
-arC(d){return"Tr\xe4na misstag ("+d+")"},
-gaqU(){return"G\xf6r slutprovet"},
-aru(d){return""+d+" fr\xe5gor"},
-gars(){return"Ej p\xe5b\xf6rjad"},
-ar3(d,e){return""+d+" av "+e+" delar klara"},
+garf(){return"Fullst\xe4ndigt prov redo"},
+gark(){return"Du spelar med liv"},
+gari(){return y.u},
+garj(){return"F\xf6rst\xe5tt"},
+garh(){return"Tyv\xe4rr, \xf6va mer!"},
+garg(){return y.C},
+garl(){return"Forts\xe4tt \xf6va"},
+arD(d){return"Tr\xe4na misstag ("+d+")"},
+gaqV(){return"G\xf6r slutprovet"},
+arv(d){return""+d+" fr\xe5gor"},
+gart(){return"Ej p\xe5b\xf6rjad"},
+ar4(d,e){return""+d+" av "+e+" delar klara"},
 gUw(){return"Forts\xe4tt"},
-garr(){return y.N},
+gars(){return y.N},
 gUv(){return"Tr\xe4na misstag"},
-garp(){return y.bu},
-garo(){return"Kunde inte ladda misstagsfr\xe5gor."},
-arq(d){return""+d+" misstag att repetera"},
-gart(){return"Redo f\xf6r fullst\xe4ndigt prov!"},
-garb(){return y.V},
-gard(){return y.y},
-gar9(){return"Du har klarat delarna."},
-gara(){return"Dina svar r\xe4ttas i slutet."},
-aqV(d,e){return""+d+" "+e+" \u2022 Klart"},
-aqZ(d,e){return""+d+" "+e+" \u2022 Ej p\xe5b\xf6rjad"},
-ar_(d,e,f,g){return""+d+" "+f+" \u2022 "+e+"/"+g+" delar klara"},
-gaqW(){return"prov"},
+garq(){return y.bu},
+garp(){return"Kunde inte ladda misstagsfr\xe5gor."},
+arr(d){return""+d+" misstag att repetera"},
+garu(){return"Redo f\xf6r fullst\xe4ndigt prov!"},
+gard(){return y.V},
+gare(){return y.y},
+gara(){return"Du har klarat delarna."},
+garb(){return"Dina svar r\xe4ttas i slutet."},
+aqW(d,e){return""+d+" "+e+" \u2022 Klart"},
+ar_(d,e){return""+d+" "+e+" \u2022 Ej p\xe5b\xf6rjad"},
+ar0(d,e,f,g){return""+d+" "+f+" \u2022 "+e+"/"+g+" delar klara"},
 gaqX(){return"prov"},
-aqY(d,e){return""+d+" "+e+" att repetera i den h\xe4r kategorin"},
+gaqY(){return"prov"},
+aqZ(d,e){return""+d+" "+e+" att repetera i den h\xe4r kategorin"},
 ga79(){return"fr\xe5ga"},
 ga7a(){return"fr\xe5gor"},
-arz(d){return"Bem\xe4stra "+d+y.A},
-arA(d,e){return""+d+" "+e+y._},
-garw(){return"DEL GODK\xc4ND"},
-gary(){return"F\xd6RS\xd6K IGEN"},
-garv(){return"\xd6vergripande beh\xe4rskning"},
-garx(){return"70% f\xf6r godk\xe4nt"},
-arn(d,e){return""+d+" / "+e+" bem\xe4strade"},
-arl(d){return""+d+" i rad"},
-gar5(){return"L\xe4mna Smart Learning?"},
-gar4(){return y.b},
-gar6(){return"R\xe4tt!"},
-gar8(){return"Fel"},
-gar7(){return"R\xe4tt svar:"},
+arA(d){return"Bem\xe4stra "+d+y.A},
+arB(d,e){return""+d+" "+e+y._},
+garx(){return"DEL GODK\xc4ND"},
+garz(){return"F\xd6RS\xd6K IGEN"},
+garw(){return"\xd6vergripande beh\xe4rskning"},
+gary(){return"70% f\xf6r godk\xe4nt"},
+aro(d,e){return""+d+" / "+e+" bem\xe4strade"},
+arm(d){return""+d+" i rad"},
+gar6(){return"L\xe4mna Smart Learning?"},
+gar5(){return y.b},
+gar7(){return"R\xe4tt!"},
+gar9(){return"Fel"},
+gar8(){return"R\xe4tt svar:"},
 gaQy(){return"Det gick inte att l\xe4sa in profildata."},
 gaQB(){return"Anv\xe4ndarnamn kr\xe4vs."},
 gaQA(){return"Profil uppdaterad."},
 gaQz(){return"L\xf6senordet har angetts."},
 gaQw(){return y.U},
 gaQx(){return y.T},
-gapZ(){return"Typsnitt"},
-gaq_(){return"Slumpa fr\xe5gor"},
-gaq0(){return"Blanda fr\xe5gornas ordning"},
+gaq_(){return"Typsnitt"},
+gaq0(){return"Slumpa fr\xe5gor"},
+gaq1(){return"Blanda fr\xe5gornas ordning"},
 gaKB(){return"Kategori"},
 gaKF(){return"Beh\xf6righet"},
 gaKD(){return"Datum"},
@@ -1588,9 +1588,9 @@ gaKG(){return"Fr\xe5gor"},
 gaUj(){return"Prenumeration kr\xe4vs"},
 gaWp(){return"Prenumeration"},
 gaWq(){return"Totalt"},
-gapd(){return"Fr\xe5gan togs bort fr\xe5n sparade"},
-gape(){return"Ta bort fr\xe5n sparade"},
-gahL(){return"Starta prov"},
+gape(){return"Fr\xe5gan togs bort fr\xe5n sparade"},
+gapf(){return"Ta bort fr\xe5n sparade"},
+gahM(){return"Starta prov"},
 gaOB(){return"Prov med tidsgr\xe4ns"},
 gaOC(){return"Aktivera en tidsgr\xe4ns f\xf6r provet"},
 gaOA(){return"Tidsgr\xe4ns (minuter)"},
@@ -1604,166 +1604,166 @@ gaOs(){return"Ange antal fr\xe5gor:"},
 gaOt(){return"Inkludera sparade fr\xe5gor"},
 gaOu(){return"Anv\xe4nd bara fr\xe5gor du sparat under prov"},
 gaLP(){return"Checklista \u2013 {name}"},
-gap_(){return y.M},
-gap3(){return y.I},
-gap1(){return"L\xf6senordet m\xe5ste vara minst 8 tecken."},
-gap2(){return y.O},
-gaoZ(){return"Ange en giltig e-postadress."},
-gap0(){return"Du har redan ett konto. Logga in."},
+gap0(){return y.M},
+gap4(){return y.I},
+gap2(){return"L\xf6senordet m\xe5ste vara minst 8 tecken."},
+gap3(){return y.O},
+gap_(){return"Ange en giltig e-postadress."},
+gap1(){return"Du har redan ett konto. Logga in."},
 $iql:1,
 $inC:1,
 ga5l(){return this.a}}
 var z=a.updateTypes([])
-A.cfr.prototype={
-$1(d){return A.d85(this.a,d)},
+A.cfs.prototype={
+$1(d){return A.d86(this.a,d)},
 $S:164}
-A.cf2.prototype={
+A.cf3.prototype={
 $1$examTitle(d){return"\u2600\ufe0f Dags att studera "+B.k(d)},
 $C:"$1$examTitle",
 $R:0,
 $D(){return{examTitle:C.Y}},
 $S:47}
-A.cf3.prototype={
+A.cf4.prototype={
 $1$examTitle(d){return"\ud83c\udf19 "+B.k(d)+" v\xe4ntar p\xe5 dig"},
 $C:"$1$examTitle",
 $R:0,
 $D(){return{examTitle:C.Y}},
 $S:47}
-A.cf4.prototype={
+A.cf5.prototype={
 $1$examTitle(d){return"Du jobbade med "+B.k(d)+" \u2014 en session till och det sitter."},
 $C:"$1$examTitle",
 $R:0,
 $D(){return{examTitle:C.Y}},
 $S:47}
-A.cff.prototype={
+A.cfg.prototype={
 $1$examTitle(d){return B.k(d)+" v\xe4ntar. Du byggde upp ett bra flyt sist \u2014 tappa det inte."},
 $C:"$1$examTitle",
 $R:0,
 $D(){return{examTitle:C.Y}},
 $S:47}
-A.cfj.prototype={
+A.cfk.prototype={
 $1$examTitle(d){return"Korta dagliga pass sl\xe5r pluggande. Hoppa in i "+B.k(d)+" nu."},
 $C:"$1$examTitle",
 $R:0,
 $D(){return{examTitle:C.Y}},
 $S:47}
-A.cfk.prototype={
+A.cfl.prototype={
 $1$examTitle(d){return"Du \xe4r n\xe4rmare \xe4n du tror p\xe5 "+B.k(d)+". H\xe5ll streaket vid liv!"},
 $C:"$1$examTitle",
 $R:0,
 $D(){return{examTitle:C.Y}},
 $S:47}
-A.cfl.prototype={
+A.cfm.prototype={
 $1$examTitle(d){return"En fokuserad session p\xe5 "+B.k(d)+" idag g\xf6r tentadagen l\xe4ttare."},
 $C:"$1$examTitle",
 $R:0,
 $D(){return{examTitle:C.Y}},
 $S:47}
-A.cfm.prototype={
+A.cfn.prototype={
 $1$letter(d){return"Bild "+B.k(d)},
 $C:"$1$letter",
 $R:0,
 $D(){return{letter:C.Y}},
 $S:463}
-A.cfn.prototype={
+A.cfo.prototype={
 $1$n(d){return"Del "+B.k(d)},
 $C:"$1$n",
 $R:0,
 $D(){return{n:C.Y}},
 $S:215}
-A.cfo.prototype={
+A.cfp.prototype={
 $1$count(d){return B.k(d)+" fr\xe5gor \xb7 Alla tidigare delar"},
 $C:"$1$count",
 $R:0,
 $D(){return{count:C.Y}},
 $S:58}
-A.cfp.prototype={
+A.cfq.prototype={
 $2$current$total(d,e){return B.k(d)+" / "+B.k(e)},
 $C:"$2$current$total",
 $R:0,
 $D(){return{current:C.Y,total:C.Y}},
 $S:464}
-A.cf5.prototype={
+A.cf6.prototype={
 $1$count(d){return"Tr\xe4na misstag ("+B.k(d)+")"},
 $C:"$1$count",
 $R:0,
 $D(){return{count:C.Y}},
 $S:58}
-A.cf6.prototype={
+A.cf7.prototype={
 $1$count(d){return B.k(d)+" fr\xe5gor"},
 $C:"$1$count",
 $R:0,
 $D(){return{count:C.Y}},
 $S:58}
-A.cf7.prototype={
+A.cf8.prototype={
 $2$done$total(d,e){return B.k(d)+" av "+B.k(e)+" delar klara"},
 $C:"$2$done$total",
 $R:0,
 $D(){return{done:C.Y,total:C.Y}},
 $S:465}
-A.cf8.prototype={
+A.cf9.prototype={
 $1$count(d){return B.k(d)+" svaga fr\xe5gor uppdaterade"},
 $C:"$1$count",
 $R:0,
 $D(){return{count:C.Y}},
 $S:58}
-A.cf9.prototype={
+A.cfa.prototype={
 $1$count(d){return B.k(d)+" misstag att repetera"},
 $C:"$1$count",
 $R:0,
 $D(){return{count:C.Y}},
 $S:58}
-A.cfa.prototype={
+A.cfb.prototype={
 $2$count$examLabel(d,e){return B.k(d)+" "+B.k(e)+" \u2022 Klart"},
 $C:"$2$count$examLabel",
 $R:0,
 $D(){return{count:C.Y,examLabel:C.Y}},
 $S:195}
-A.cfb.prototype={
+A.cfc.prototype={
 $2$count$examLabel(d,e){return B.k(d)+" "+B.k(e)+" \u2022 Ej p\xe5b\xf6rjad"},
 $C:"$2$count$examLabel",
 $R:0,
 $D(){return{count:C.Y,examLabel:C.Y}},
 $S:195}
-A.cfc.prototype={
+A.cfd.prototype={
 $4$count$done$examLabel$total(d,e,f,g){return B.k(d)+" "+B.k(f)+" \u2022 "+B.k(e)+"/"+B.k(g)+" delar klara"},
 $C:"$4$count$done$examLabel$total",
 $R:0,
 $D(){return{count:C.Y,done:C.Y,examLabel:C.Y,total:C.Y}},
 $S:466}
-A.cfd.prototype={
+A.cfe.prototype={
 $2$count$questionLabel(d,e){return B.k(d)+" "+B.k(e)+" att repetera i den h\xe4r kategorin"},
 $C:"$2$count$questionLabel",
 $R:0,
 $D(){return{count:C.Y,questionLabel:C.Y}},
 $S:196}
-A.cfe.prototype={
+A.cff.prototype={
 $1$count(d){return"Bem\xe4stra "+B.k(d)+y.A},
 $C:"$1$count",
 $R:0,
 $D(){return{count:C.Y}},
 $S:58}
-A.cfg.prototype={
+A.cfh.prototype={
 $2$count$questionLabel(d,e){return B.k(d)+" "+B.k(e)+y._},
 $C:"$2$count$questionLabel",
 $R:0,
 $D(){return{count:C.Y,questionLabel:C.Y}},
 $S:196}
-A.cfh.prototype={
+A.cfi.prototype={
 $2$mastered$total(d,e){return B.k(d)+" / "+B.k(e)+" bem\xe4strade"},
 $C:"$2$mastered$total",
 $R:0,
 $D(){return{mastered:C.Y,total:C.Y}},
 $S:467}
-A.cfi.prototype={
+A.cfj.prototype={
 $1$n(d){return B.k(d)+" i rad"},
 $C:"$1$n",
 $R:0,
 $D(){return{n:C.Y}},
 $S:215};(function inheritance(){var w=a.inherit,v=a.inheritMany
 w(A.ayc,B.L)
-v(B.xp,[A.cfr,A.cf2,A.cf3,A.cf4,A.cff,A.cfj,A.cfk,A.cfl,A.cfm,A.cfn,A.cfo,A.cfp,A.cf5,A.cf6,A.cf7,A.cf8,A.cf9,A.cfa,A.cfb,A.cfc,A.cfd,A.cfe,A.cfg,A.cfh,A.cfi])})()
-B.cET(b.typeUniverse,JSON.parse('{"ayc":{"nC":[],"ql":["k6","nC"]}}'))
+v(B.xp,[A.cfs,A.cf3,A.cf4,A.cf5,A.cfg,A.cfk,A.cfl,A.cfm,A.cfn,A.cfo,A.cfp,A.cfq,A.cf6,A.cf7,A.cf8,A.cf9,A.cfa,A.cfb,A.cfc,A.cfd,A.cfe,A.cff,A.cfh,A.cfi,A.cfj])})()
+B.cEU(b.typeUniverse,JSON.parse('{"ayc":{"nC":[],"ql":["k7","nC"]}}'))
 var y={A:" fr\xe5gor f\xf6r att l\xe5sa upp fullst\xe4ndigt prov.",_:" kvar att bem\xe4stra och du l\xe5ser upp fullst\xe4ndigt prov.",Y:"AKADEMISK EXCELLENS GENOM KINETISKT L\xc4RANDE",x:"Accelerera ditt l\xe4rande med personliga studieverktyg.",J:"Ange din e-postadress s\xe5 skickar vi instruktioner f\xf6r att \xe5terst\xe4lla ditt l\xf6senord.",E:"Anslutningen tog f\xf6r l\xe5ng tid. Kontrollera din anslutning och f\xf6rs\xf6k igen.",I:"Anv\xe4ndarnamnet \xe4r upptaget. V\xe4lj ett annat.",s:"Beh\xf6righet nekad \u2014 tryck nedan f\xf6r att \xf6ppna Inst\xe4llningar",z:"Beh\xf6ver du hj\xe4lp med den h\xe4r fr\xe5gan? V\xe4lj ett alternativ nedan eller st\xe4ll din egen fr\xe5ga.",F:"Ber\xe4tta om ditt problem s\xe5 \xe5terkommer vi till dig.",R:"Ber\xe4tta vad som \xe4r fel med den h\xe4r fr\xe5gan...",v:"Bra jobbat! Du vet nu hur du \xf6vers\xe4tter fr\xe5gor och kikar p\xe5 originaltexten.",U:"Demokonton kan inte \xe4ndra anv\xe4ndarnamn eller e-post.",m:"Den h\xe4r \xe5tg\xe4rden \xe4r permanent och kan inte \xe5ngras. All din framsteg och data kommer att tas bort.",M:"Det finns redan ett konto med den h\xe4r e-postadressen. Logga in i st\xe4llet eller anv\xe4nd en annan e-post.",o:"Det gick inte att skicka \xe5terst\xe4llningsmail. F\xf6rs\xf6k igen.",w:"Det gick inte att \xe5terst\xe4lla din session. F\xf6rs\xf6k igen.",t:"Detta tar bort alla aviseringar. \xc5tg\xe4rden kan inte \xe5ngras.",Z:"Din resa mot framg\xe5ng b\xf6rjar med ett tryck.",b:"Dina framsteg i den h\xe4r sessionen kommer att g\xe5 f\xf6rlorade.",n:"Ditt l\xf6senord har \xe5terst\xe4llts. Du kan nu logga in med ditt nya l\xf6senord.",y:"Du f\xe5r 3 liv och direkt r\xe4ttning tills du har klarat alla delar.",L:"Du f\xe5r tv\xe5 p\xe5minnelser varje \xf6vningsdag \u2014 en p\xe5 morgonen och en p\xe5 kv\xe4llen \u2014 vid slumpm\xe4ssiga tider f\xf6r att hj\xe4lpa dig bygga en vana.",C:"Du gjorde 3 misstag. Forts\xe4tt tr\xe4na delarna innan du f\xf6rs\xf6ker med hela provet igen.",K:"Du har ingen aktiv prenumeration f\xf6r denna kategori",c:"Du har loggats ut eftersom ditt konto anv\xe4ndes p\xe5 en annan enhet.",S:"Du har nekat beh\xf6righet f\xf6r aviseringar. \xd6ppna Inst\xe4llningar f\xf6r att aktivera dem.",p:"Du har {count} obesvarade fr\xe5gor. Vill du \xe4nd\xe5 avsluta testet?",V:"Du kan g\xf6ra det tidsbegr\xe4nsade slutprovet nu, \xe4ven innan alla delar \xe4r klara.",B:"Du kommer att f\xe5 p\xe5minnelser och uppdateringar om dina prov",T:"Du \xe4r inloggad med Google. L\xf6senords\xe4ndringar hanteras via ditt Google-konto.",k:"Du \xe4r redo att f\xf6rbereda dig f\xf6r ditt taxik\xf6rkortsprov!",W:"Du \xe4r \xe0 jour! Vi meddelar dig n\xe4r n\xe5got nytt h\xe4nder.",f:"ENG\xc5NGSBETALNING \xb7 2 M\xc5NADERS TILLG\xc5NG \xb7 F\xd6RNYAS INTE AUTOMATISKT",d:"Eller mejla oss direkt p\xe5 support@drivetest.se",h:"Endast gratis \xf6vningsprov \xe4r tillg\xe4ngliga. Prenumerera f\xf6r att l\xe5sa upp alla prov.",D:"Fantastiskt! {n} dagar i rad \u2014 h\xe5ll i det!",i:"Feedback \xe4r inte tillg\xe4nglig f\xf6r den h\xe4r fr\xe5gan.",q:"Fel vid \xf6ppning av e-postappen. F\xf6rs\xf6k igen.",r:"Forts\xe4tt \xf6va och f\xf6rs\xf6k igen. Du klarar det!",P:"Forts\xe4tt \xf6va. Du beh\xf6ver {score}% f\xf6r att bli godk\xe4nd.",aH:"Framstegen sparades p\xe5 den h\xe4r enheten, men synkronisering till ditt konto misslyckades. F\xf6rs\xf6k igen.",O:"Fyll i anv\xe4ndarnamn, e-post och l\xf6senord.",aD:'F\xf6r att aktivera aviseringar, klicka p\xe5 l\xe5sikonen (\ud83d\udd12) i webbl\xe4sarens adressf\xe4lt, hitta "Aviseringar" och st\xe4ll in det p\xe5 "Till\xe5t". Ladda sedan om sidan.',dd:"F\xf6rnya nu f\xf6r att forts\xe4tta \xf6va utan avbrott.",j:"G\xf6r ditt f\xf6rsta test f\xf6r att se din utveckling",bu:"Inga misstag att tr\xe4na i den h\xe4r kategorin.",N:"Inga prov tillg\xe4ngliga f\xf6r Smart Learning \xe4nnu",fx:"Inga sparade fr\xe5gor hittades i denna kategori.",X:"Inga sparade fr\xe5gor i denna kategori \xe4nnu.",bA:"Ingen internetanslutning. Kontrollera din anslutning och f\xf6rs\xf6k igen.",l:"Inget gratis \xf6vningsprov tillg\xe4ngligt f\xf6r denna kategori.",a:"Instruktioner f\xf6r l\xf6senords\xe5terst\xe4llning har skickats till din e-post.",bR:"Kunde inte \xf6ppna e-postappen. Mejla support@drivetest.se direkt.",ai:"Ladda ner Drive Test-appen fr\xe5n App Store f\xf6r en snabbare och smidigare upplevelse.",cL:"Ladda ner Drive Test-appen p\xe5 Google Play f\xf6r en snabbare och smidigare upplevelse.",e:"N\xe4r du slutf\xf6rt ett prov visas dina resultat h\xe4r.",fy:"Ogiltig eller utg\xe5ngen kod. F\xf6rs\xf6k att beg\xe4ra en ny \xe5terst\xe4llningsl\xe4nk.",cl:"Registreringen lyckades! V\xe4nligen logga in.",aW:"Registreringen misslyckades. R\xe4tta felen.",ev:"Skapa ett gratis konto eller logga in f\xf6r att f\xe5 tillg\xe5ng till fullst\xe4ndiga prov",dJ:"Skapa ett gratis konto eller logga in f\xf6r att starta din prenumeration. Dina framsteg och prenumeration synkas p\xe5 alla dina enheter.",bm:"Skapa ett gratis konto f\xf6r att beh\xe5lla allt du har \xf6vat p\xe5.",cC:"Skapa ett gratis konto f\xf6r att komma \xe5t din prenumeration p\xe5 alla dina enheter, eller forts\xe4tt som g\xe4st \u2014 du kan alltid skapa ett konto senare.",dq:"Skapa ett gratis konto f\xf6r att spara dina framsteg och synka p\xe5 alla dina enheter.",g:"Sl\xe4pp fingret f\xf6r att g\xe5 tillbaka till den \xf6versatta texten.",a7:"Spara detta kvitto. Kontakta support med ditt kvittonummer om du har fr\xe5gor om detta k\xf6p.",g5:"Testa v\xe4gm\xe4rken \u2014 ingen prenumeration kr\xe4vs",Q:"Till\xe5t aviseringar f\xf6r att h\xe5lla dig uppdaterad om dina provframsteg och p\xe5minnelser.",dR:"Tj\xe4nsten \xe4r tillf\xe4lligt otillg\xe4nglig. F\xf6rs\xf6k igen om en stund.",bL:"Tryck och h\xe5ll var som helst p\xe5 fr\xe5gan (inte svarsalternativen) f\xf6r att tillf\xe4lligt se den ursprungliga svenska texten.",H:"Tryck p\xe5 'Fr\xe5gespr\xe5k' i menyn och v\xe4lj sedan ett spr\xe5k fr\xe5n listan.",dY:"Tryck p\xe5 spr\xe5kknappen f\xf6r att \xf6ppna listan och v\xe4lj sedan engelska (eller valfritt annat spr\xe5k).",G:"Tr\xe4na del f\xf6r del, bem\xe4stra dina svaga punkter",u:"Varje fel svar kostar ett hj\xe4rta \u2764\ufe0f. F\xf6rlorar du alla 3 tas du tillbaka \u2014 slutf\xf6r de tidigare delarna f\xf6r att l\xe5sa upp hela provet.",gK:"Vi skickade en \xe5terst\xe4llningskod till\n{email}",gh:"V\xe4gm\xe4rkestest \xe4r helt gratis. \xd6va i din egen takt och k\xe4nn p\xe5 appen innan du prenumererar.",a9:"V\xe4lj de dagar du f\xf6rbinder dig att \xf6va varje vecka.",gC:"V\xe4lj ett annat spr\xe5k nedan, till exempel engelska.",gg:"V\xe4nligen ange ditt anv\xe4ndarnamn eller e-post",aM:"V\xe4nligen ange \xe5terst\xe4llningskoden fr\xe5n din e-post.",fH:"t.ex. Inloggningsproblem, Buggrapport, Funktionsf\xf6rfr\xe5gan",d5:"\xc4r du s\xe4ker p\xe5 att du vill ta bort alla testf\xf6rs\xf6k?",cr:"\xc4r du s\xe4ker p\xe5 att du vill ta bort det h\xe4r sparade testet?",gn:"\xd6vers\xe4ttningen misslyckades. F\xf6rs\xf6k igen.",h1:"\xd6vning, Trafikskyltar, Dokument och Checklistor \xe4r gratis. Prenumerera f\xf6r att l\xe5sa upp Prov."}
-var x={c:B.aw("Eh<k6,nC>")}};
-(a=>{a["FdI9WYDVoSOlgqHHtOLpzD+sXMQ="]=a.current})($__dart_deferred_initializers__);
+var x={c:B.aw("Ej<k7,nC>")}};
+(a=>{a["m85l+bvJdKmYuOvML7CRWyflik8="]=a.current})($__dart_deferred_initializers__);
